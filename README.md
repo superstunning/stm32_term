@@ -9,15 +9,15 @@ you can set log out level (using tera term).
 
 you can log out some messages to display on tera term by using stm32 function : 
 
-. void log_debug(const char* tag, const char* msg)
-. void log_info(const char* tag, const char* msg)
-. void log_warning(const char* tag, const char* msg)
-. void log_error(const char* tag, const char* msg)
+>void log_debug(const char* tag, const char* msg)
+>void log_info(const char* tag, const char* msg)
+>void log_warning(const char* tag, const char* msg)
+>void log_error(const char* tag, const char* msg)
 
 
 you can set log out level by using stm32 function :
 
-. void log_set_level(uint8_t level)
+>void log_set_level(uint8_t level)
 
 priority level :  error > warning > info > debug
   

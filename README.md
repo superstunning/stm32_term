@@ -1,5 +1,5 @@
 # stm32_term
-terminal for stm32, you can communication with stm32 app by using tool : Tera Term etc.
+terminal for stm32, you can do communication with stm32 app by using tool : Tera Term etc.
 if you are debuging an application, you can using this term to display log informations or send commands to stm32 for checking or testing some functions.
 you can use terminal tool, for example : tera term or other terminal tools.
 tera term can be downloaded from : http://ttssh2.osdn.jp/
@@ -28,5 +28,8 @@ for example, level is warning, the messages can be displayed are error/warning, 
 
 we use uart1 for terminal function.
 you also can change source to use uart2/3/4/5 for terminal function.
-  
+
+if you have some advice, please send e-mail to me : zhu_yanjun@superstunning.com
+
+
   

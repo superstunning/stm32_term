@@ -27,6 +27,6 @@ priority level :  error > warning > info > debug
 for example, level is warning, the messages can be displayed are error/warning, info and debug can not be displayed.
 
 we use uart1 for terminal function.
-you also can change source tu use uart2/3/4/5 for terminal function.
+you also can change source to use uart2/3/4/5 for terminal function.
   
   
